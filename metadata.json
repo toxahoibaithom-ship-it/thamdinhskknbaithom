@@ -1,0 +1,7 @@
+{
+  "name": "Remix:  EduReview AI 3/2",
+  "description": "Hệ thống thẩm định sáng kiến kinh nghiệm giáo dục thông minh sử dụng trí tuệ nhân tạo Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
